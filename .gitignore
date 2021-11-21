@@ -1,0 +1,7 @@
+target/
+dependency-reduced-pom.xml
+q-calculator.iml
+.idea
+test
+output
+logs
